@@ -1,0 +1,5 @@
+Running argmax with K = 2048 using 4 threads
+Sequential for argmax: m = 1.000000, idx_m = 8388608, time = 0.014844
+Parallel for argmax: m = 1.000000, idx_m = 8388608, time = 0.006234
+Sequential recursive argmax: m = 1.000000, idx_m = 8388608, time = 0.010783
+Parallel recursive argmax: m = 1.000000, idx_m = 8388608, time = 0.004995
